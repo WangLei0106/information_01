@@ -1,0 +1,67 @@
+[33mcommit b169dd62dfc6b8a12a09dd7df2644af5afbca7a6[m
+Merge: e09abf6 d370626
+Author: manage <manag@163.com>
+Date:   Sat May 26 09:28:37 2018 +0800
+
+    tt
+
+[33mcommit e09abf6b798279cc538be4cd178e233fd3aa0f34[m
+Merge: 8b91605 b9da339
+Author: manage <manag@163.com>
+Date:   Sat May 26 09:27:31 2018 +0800
+
+    ss
+
+[33mcommit d370626f385e0bf3e4e97d78bfd1d0534b1fde67[m
+Author: zhangsan <zhangsan@qq.com>
+Date:   Sat May 26 09:24:04 2018 +0800
+
+    变量的添加
+
+[33mcommit 8b91605f6f41d701348f0dcea92aad802382c8e3[m
+Author: manage <manag@163.com>
+Date:   Thu May 24 15:23:38 2018 +0800
+
+    删除多余文件
+
+[33mcommit b9da33985d52ce08bd535565259921119d75b236[m
+Author: zhangsan <zhangsan@qq.com>
+Date:   Thu May 24 15:10:47 2018 +0800
+
+    配置
+
+[33mcommit 0a0f8c67bbcace10da3908dd3d99f96d1ccdc6ba[m
+Author: zhangsan <zhangsan@qq.com>
+Date:   Thu May 24 11:43:11 2018 +0800
+
+    　第三个变量
+
+[33mcommit b13a7a9d2668ab030e904cbd27f07445b112bf8d[m
+Author: manage <manag@163.com>
+Date:   Thu May 24 10:54:00 2018 +0800
+
+    第二个变量
+
+[33mcommit c08f91b801bde20504d3dd76b77dc4db19a4c652[m
+Author: zhangsan <zhangsan@qq.com>
+Date:   Thu May 24 10:50:24 2018 +0800
+
+    第一个变量
+
+[33mcommit 1b7006405ab29da2136668caa5e8982dd55e33db[m
+Author: manage <manag@163.com>
+Date:   Thu May 24 09:24:48 2018 +0800
+
+    立项
+
+[33mcommit a720dfc84c58878d520c028497f6863732ca3547[m
+Author: manage <manag@163.com>
+Date:   Wed May 23 21:55:15 2018 +0800
+
+    logins
+
+[33mcommit aba94cb029369c5092c95002f1cafd847f06baae[m
+Author: WangLei0106 <38470795+WangLei0106@users.noreply.github.com>
+Date:   Wed May 23 21:48:05 2018 +0800
+
+    Initial commit
